@@ -1,0 +1,778 @@
+    1  --upgradable
+    2  apt list --upgradable
+    3  ls
+    4  root
+    5  sudo apt update
+    6  apt list --upgradable
+    7  sudo apt upgrade
+    8  sudo apt-get update
+    9  sudo apt update
+   10  ls
+   11  sudo apt-get install git'
+   12  sudo apt-get install git
+   13  pwd
+   14  mkdir learning_unix
+   15  ls
+   16  cd learning_unix
+   17  mkdir Outer_directory
+   18  cd Outer_directory
+   19  mkdir Inner_directory
+   20  cd
+   21  mkdir dummy_dir/Outer_dir/Inner_dir
+   22  mkdir -p dummy_dir/Outer_dir/Inner_dir
+   23  ls
+   24  cd dummy_dir
+   25  ls
+   26  cd outer_dir/inner_dir
+   27  cd Outer_dir/Inner_dir
+   28  pwd
+   29  cd home
+   30  cd
+   31  pwd
+   32  mkdir home
+   33  cd dummy_dir/Outerr_dir/Inner_dir
+   34  ls
+   35  cd dummy_dir/Outer_dir/Inner_dir
+   36  cd /
+   37  cd dummy_dir/Outer_dir
+   38  ls
+   39  cd root
+   40  cd tmp
+   41  cd ~
+   42  ;s
+   43  ls
+   44  cd
+   45  ls
+   46  cd /
+   47  ls'
+   48  cd /
+   49  ls
+   50  cd media
+   51  ls
+   52  cd
+   53  ls
+   54  ls
+   55  cd ~/learning_unix
+   56  ls -l /home
+   57  cd
+   58  ls -l
+   59  ls -R
+   60  ls -l -t -r
+   61  ls -lh
+   62  man ls
+   63  ls
+   64  ls /data
+   65  ls /dummy_dir
+   66  ls
+   67  ls home
+   68  ls
+   69  pwd
+   70  cd /home
+   71  ls
+   72  cd /root
+   73  cd
+   74  cd learning_unix
+   75  cd /tmp
+   76  ls
+   77  cd learning_unix
+   78  cd
+   79  cd learning_unix
+   80  ls -l
+   81  ls -R
+   82  cd
+   83  rmdir dummy_dir
+   84  cd dummy_dir
+   85  ls
+   86  cd Outer_dir
+   87  ls
+   88  rmdir Inner_dir
+   89  cd dummy_dir
+   90  cd 
+   91  cd learning_unix/
+   92  mkdir git-basic-exercises
+   93  ls
+   94  cd git-basic-exercises/
+   95  ls -a
+   96  git init
+   97  ls -a
+   98  git status
+   99  git log
+  100  git add
+  101  git log.
+  102  git status
+  103  touch README.md
+  104  ls -a
+  105  git status
+  106  git log
+  107  git add
+  108  ls
+  109  git status
+  110  git add README.MD
+  111  git add README.md
+  112  git status
+  113  git commit -m "initial commit"
+  114  git config --global svchitimira@gmail.com
+  115  q
+  116  cd
+  117  sudo apt install python3-q-text-as-data
+  118  cd git-basic-exercises
+  119  ls
+  120  gitconfig
+  121  git config
+  122  git --version
+  123  git config --system
+  124  git --version
+  125  sudo apt install git-all
+  126  git --version
+  127  sudo apt install git-all
+  128  git clone git:git.kernel.org/pub/scm/git/git.git
+  129  .git/config
+  130  cd ~
+  131  ls
+  132  --system
+  133  git config --system
+  134  git config --list --show-origin
+  135  git config --global
+  136  clear
+  137  git --version
+  138  git config --global user.name "ZimboCapetonian"
+  139  git config --global user.email "svchitimira@gmail.com"
+  140  git config --list
+  141  pwd
+  142  ls
+  143  ls -a
+  144  gedit .gitconfig
+  145  sudo apt install gedit
+  146  clear
+  147  ls -a
+  148  gedit .gitconfig
+  149  pwd
+  150  ls -a
+  151  gedit .gitconfig
+  152  clear
+  153  mkdir git_workspace
+  154  cd git-workspace
+  155  cd git_workspace
+  156  gh pr checkout 5
+  157  sudo apt install gitsome
+  158  gh pr checkout 5
+  159  gh --help
+  160  sudo apt-get emacs
+  161  ls
+  162  sudo apt-get emacs -y
+  163  ls
+  164  clear
+  165  pwd
+  166  ls
+  167  cd git_workspace/
+  168  ls
+  169  cd VaraidzoSally-Chitimira-429-bootcamp-writing-assignment-markdown/
+  170  ls
+  171  git push -u origin git_push_retry
+  172  git status
+  173  git branch
+  174  git branch -a
+  175  git checkout main
+  176  ks
+  177  ls
+  178  git status
+  179  git push
+  180  git branch a
+  181  git branch -a
+  182  git checkout new-branch
+  183  ls
+  184  git commit
+  185  git push
+  186  git push --set-upstream origin new-branch
+  187  cd git_workspace/
+  188  cd
+  189  ls
+  190  ls -a
+  191  ls
+  192  cd git_workspace/
+  193  ls
+  194  cd VaraidzoSally-Chitimira-429-bootcamp-writing-assignment-markdown/
+  195  ls
+  196  git status
+  197  git branch -a
+  198  pull -h
+  199  git push origin new-branch:new-branch
+  200  git pull origin new-branch:new-branch
+  201  ls
+  202  mv 5-why_i_will_succeed,md 5-why_i_will_succeed.md
+  203  ls
+  204  emacs 1-my_history.md 
+  205  emacs 2-why_this_career.md 
+  206  emacs 3-my_free_time.md 
+  207  less 3-my_free_time.md 
+  208  emacs 3-my_free_time.md 
+  209  emacs 2-
+  210  ls
+  211  emacs 2-why_this_career.md 
+  212  ls
+  213  emacs 4-relevant_experience.md 
+  214  ls
+  215  emacs 5-why_i_will_succeed.md 
+  216  emacs 6-what_may_get_in_my_way.md 
+  217  emacs 7-my_routine.md 
+  218  ls
+  219  git push origin new-branch
+  220  git status
+  221  git add 1-my_history.md 2-why_this_career.md 3-my_free_time.md 4-relevant_experience.md 5-why_i_will_succeed.md 6-what_may_get_in_my_way.md 7-my_routine.md 
+  222  git push origin new-branch
+  223  git status
+  224  git commit -m "Fixed majority of the proposed changes, having some trouble fixing the grammarly fixed in terminal"
+  225  git push origin new-branch
+  226  clear
+  227  cd
+  228  sudo apt-get diction
+  229  q
+  230  sudo apt-get diction
+  231  ls
+  232  cd git_workspace/
+  233  touch emacs-config
+  234  emacs emacs-config 
+  235  git clone http://www.dr-qubit.org/git/predictive.git
+  236  cd
+  237  python --version
+  238  sudo apt-get update
+  239  sudo apt-get install python3.9.5 pytho3-pip
+  240  sudo apt-get install python3
+  241  python3 --version
+  242  sudo snap install intellij-idea-community --classic
+  243  git config --list --show-origin
+  244  git config --global core.editor emacs
+  245  sudo snap install --classic code # or code-insiders
+  246  sudo apt-get install snapd
+  247  sudo snap install --classic code # or code-insiders
+  248  help
+  249  -h
+  250  clear
+  251  dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+  252  scoop install hub
+  253  sudo apt install xmlbeans (3.0.2-1)
+  254  sudo apt install xmlbeans
+  255  apt-get update
+  256  cd /tmp
+  257  apt kist --upgradable
+  258  apt list --upgradable
+  259  sudo apt-get upgrade
+  260  apt list --upgrade
+  261  apt list --upgradable
+  262  git config --global init.defaultBranch main
+  263  git config --list
+  264  git config user.name
+  265  git config --show-origin rerere.autoUpdate
+  266  git help config
+  267  ls
+  268  cd git_workspace/
+  269  cd C:\Users\27647\Documents\work\learning-to-code\umuzi\bootcamp
+  270  cd C:\Users\27647\Documents\work\learning-to-code\umuzi\bootcamp\winning.js
+  271  cd C:\Users\27647\Documents\work\learning-to-code\umuzi\bootcamp git init
+  272  clear
+  273  mkdir git-tutorials
+  274  cd git-tutorials/
+  275  git clone https://github.com/ZimboCapetonian/front-end-handbook-2019.git
+  276  git log
+  277  git log front-end-handbook-2019/
+  278  git status
+  279  ls
+  280  cd front-end-handbook-2019/
+  281  git log
+  282  git log -p -2
+  283  git log --stat
+  284  git log --pretty=oneline
+  285  git log --pretty=format:"%h - %an, : %s"
+  286  git log --pretty=format:"%h - %s" --graph
+  287  git log --since=2.weeks
+  288  git log -S function_name
+  289  git log -- path/to/file
+  290  cd
+  291  cd git_workspace/
+  292  ls
+  293  cd VaraidzoSally-Chitimira-429-bootcamp-writing-assignment-markdown/
+  294  git remote
+  295  git remote -v
+  296  git tag
+  297  cd 
+  298  ls
+  299  mv git-basic-exercises git_workspace/git-basic-exercises
+  300  ls
+  301  cd git_workspace/
+  302  ls
+  303  cd git-basic-exercises/
+  304  ls -a
+  305  git init
+  306  git status
+  307  git log
+  308  cd git_workspace
+  309  cd
+  310  cd git_workspace/
+  311  rmdir git-basic-exercises/
+  312  cd git-basic-exercises/
+  313  ls'
+  314  ls
+  315  q
+  316  ls
+  317  cd git_workspace/
+  318  ls
+  319  mv git-tutorials git_tutorials
+  320  ;s
+  321  ls
+  322  cd git-basic-exercises/
+  323  ls
+  324  git status
+  325  git branches
+  326  git branch
+  327  git log
+  328  ruby -v
+  329  sudo apt install ruby
+  330  ruby -v
+  331  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/linuxbrew/go/install)"
+  332  homebrew -v
+  333  linuxbrew -v
+  334  sudo apt-get install build-essential curl file git
+  335  ruby -v
+  336  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  337  homebrew -v
+  338  :~$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  339  /bin/bash -c "$(curl -ftls https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  340  sudo apt update
+  341  apt list --upgradable
+  342  sudo apt upgrade
+  343  sudo apt-get install build-essential
+  344  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  345  sudo apt-get homebrew
+  346  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/linuxbrew/go/install)"
+  347  sudo apt-get install build-essential procps curl file git
+  348  git clone https://github.com/Homebrew/brew ~/.linuxbrew/Homebrew
+  349  mkdir ~/.linuxbrew/bin
+  350  ln -s ~/.linuxbrew/Homebrew/bin/brew ~/.linuxbrew/bin
+  351  eval $(~/.linuxbrew/bin/brew shellenv)
+  352  sudo apt-get install build-essential procps curl file git
+  353  export PATH="$HOME/.linuxbrew/bin:$PATH"
+  354  export MANPATH="$HOME/.linuxbrew/share/man:$MANPATH"
+  355  export INFOPATH="$HOME/.linuxbrew/share/info:$INFOPATH"
+  356  brew install node
+  357  export INFOPATH="$HOME/.linuxbrew/share/info:$INFOPATH"
+  358  node -v
+  359  sudo apt install nodejs
+  360  node -v
+  361  npm -v
+  362  sudo apt install npm
+  363  npm -v
+  364  npm install eslint --save-dev
+  365  sudo apt-get install -y build-essential
+  366  PATH="$HOME/bin:$HOME/.local/bin:/usr/bin:$PATH"
+  367  source ~/.profile
+  368  sudo apt-get update
+  369  sudo apt-get install build-essential libssl-dev
+  370  curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh -o install_nvm.sh
+  371  bash install_nvm.sh
+  372  source ~/.profile
+  373  sudo apt-get update
+  374  sudo apt-get install build-essential libssl-dev
+  375  curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh -o install_nvm.sh
+  376  bash install_nvm.sh
+  377  source ~/.profile
+  378  nvm install 11.13.0
+  379  sudo apt install nvm 
+  380  sudo npm install
+  381  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+  382  sudo apt-get install -y nodejs
+  383  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+  384  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+  385  export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+  386  npm -v
+  387  brew upgrade node
+  388  sudo apt install brew
+  389  npm install eslint --save-dev
+  390  yarn add eslint --dev
+  391  sudo apt install cmdtest
+  392  yarn add eslint --dev
+  393  yarn add eslint
+  394  sudo install eslint
+  395  ls
+  396  ls -a
+  397  cd git_workspace/
+  398  ls
+  399  cd git-basic-exercises/
+  400  ls -a
+  401  git branch
+  402  ls
+  403  rm README.md 
+  404  echo "booya" > README.md
+  405  ls
+  406  git status
+  407  git add README.md 
+  408  git commit -m "rewrote readme"
+  409  checkout master
+  410  git checkout master
+  411  ls
+  412  cd git_workspace/
+  413  mkdir git-basic-exercises-retry
+  414  cd git-basic-exercises-retry
+  415  ls -a
+  416  git init
+  417  ls -a
+  418  git status
+  419  touch README.md
+  420  ls -a
+  421  git status
+  422  git log
+  423  git add README.md 
+  424  git commit -m "initial commit"
+  425  git log
+  426  nano README.md
+  427  cat README.md 
+  428  git status
+  429  git commit -m "second commit"
+  430  nano README.md 
+  431  git commit -m "third commit"
+  432  git log
+  433  git add README.md 
+  434  log
+  435  git log
+  436  git commit -m "second commit"
+  437  log
+  438  git log
+  439  nano README.md 
+  440  git status
+  441  git add README.md 
+  442  git commit -m "third commit"
+  443  git log
+  444  git checkout 4c08e0f9d61edb574da427479172c5a5593eb11b
+  445  ls
+  446  cat README.md 
+  447  git checkout master
+  448  cat README.md
+  449  git branch
+  450  git branch -m master main
+  451  git branch
+  452  git checkout milkshake-flavours
+  453  git branch milkshake-flavours
+  454  git branch
+  455  git checkout milkshake-flavours
+  456  git branch
+  457  nano milkshakes.md
+  458  git add milkshakes.md 
+  459  git commit -m "added initial flavours"
+  460  git log
+  461  git checkout main
+  462  git branch history
+  463  git checkout history
+  464  git log
+  465  history > history.txt
+  466  git add history.txt 
+  467  git commit -m "added history"
+  468  git log
+  469  nano README.md 
+  470  git add README.md 
+  471  git commit -m "random readme changes"
+  472  checkout history
+  473  git checkout history
+  474  git log
+  475  cat README.md 
+  476  rm README.md
+  477  echo "booya" > README.md
+  478  git add
+  479  git status
+  480  git add README.md 
+  481  git commit -m "rewrote readme"
+  482  gitcheckout main
+  483  git checkout main
+  484  ls
+  485  git log
+  486  git checkout milkshake-flavours
+  487  ls 
+  488  git log
+  489  git checkout history
+  490  ls
+  491  git log
+  492  rm REAMD.md
+  493  rm README.md 
+  494  ls
+  495  echo "booya" > README.md
+  496  ls
+  497  git statis
+  498  git status
+  499  git log
+  500  git checkout main
+  501  git merge milkshake-flavours 
+  502  git log
+  503  ls
+  504  git merge history 
+  505  git checkout main
+  506  ls
+  507  git log
+  508  pwd
+  509  cd /home/zimbocapetonian/git_workspace/
+  510  ls
+  511  rm -rf git-basic-exercises/.git
+  512  ls
+  513  cd git
+  514  cd git-basic-exercises
+  515  ls
+  516  rm README.md 'cat README.md' 'more README.md' 
+  517  ls
+  518  git status
+  519  pwd
+  520  cd /home/zimbocapetonian/git_workspace/git-basic-exercises-retry
+  521  ls
+  522  cat README.md 
+  523  cd /home/zimbocapetonian/git_workspace/
+  524  ls
+  525  rm -rf git-basic-exercises-retry/.git
+  526  cd git-basic-exercises-retry
+  527  rm -a
+  528  ls
+  529  rm README.md history.txt milkshakes.md 
+  530  ls
+  531  pwd
+  532  cd /home/zimbocapetonian/git_workspace/
+  533  ls
+  534  rmdir git-basic-exercises-retry
+  535  cd git-basic-exercises/
+  536  ls
+  537  git init
+  538  git branch
+  539  git branch main
+  540  git branch -m master main
+  541  cd /home/zimbocapetonian/git_workspace/
+  542  rm -rf git-basic-exercises/.git
+  543  rmdir git-basic-exercises/
+  544  ls
+  545  mkdir git-basic-exercises
+  546  cd git-basic-exercises/
+  547  ls -a
+  548  git init
+  549  ls -a
+  550  git status
+  551  git branch
+  552  touch README.md
+  553  git status
+  554  git add README.md 
+  555  git commit -m "initial commit"
+  556  git log
+  557  git branch
+  558  git branch -m master main
+  559  git branch
+  560  nano README.md 
+  561  cat README.md 
+  562  git add README.md 
+  563  git commit -m "second commit"
+  564  nano README.md 
+  565  git add README.md 
+  566  git commit -m "third commit"
+  567  git log
+  568  git checkout f3a346a8700e3c297611464e4b44a56231286ac2
+  569  cat README.md 
+  570  git checkout main
+  571  cat README.md 
+  572  git branch milkshake-flavours
+  573  git checkout milkshake-flavours 
+  574  nano milkshakes.md
+  575  git add milkshakes.md 
+  576  git commit -m "added initial flavours"
+  577  git log
+  578  git checkout main
+  579  git branch history
+  580  history > history.txt
+  581  git add history.txt 
+  582  git commit -m "added history"
+  583  git log
+  584  git checkout milkshake-flavours
+  585  nano README.md 
+  586  git add README.md 
+  587  git commit -m "random readme changes"
+  588  git checkout history
+  589  cat README.md 
+  590  rm README.md 
+  591  echo "booya" > README.md
+  592  git status
+  593  cat README.md 
+  594  git add README.md 
+  595  git commit -m "rewrote readme"
+  596  git checkout mian
+  597  git checkout main
+  598  ls
+  599  git checkout history
+  600  ls
+  601  git branch history main
+  602  git branch history m
+  603  git branch -m main hi
+  604  git branch -m history main
+  605  git branch -m hi history
+  606  git branch
+  607  git checkout main
+  608  ls
+  609  git log
+  610  pwd
+  611  cd /home/zimbocapetonian/git_workspace/
+  612  rm -rf git-basic-exercises/
+  613  ls
+  614  ls -a
+  615  mkdir git-basic-exercises
+  616  git init
+  617  touch README.MD
+  618  rm README.MD 
+  619  ls
+  620  git status
+  621  touch README.md
+  622  ls -a
+  623  cd git-basic-exercises/
+  624  git init
+  625  cd /home/zimbocapetonian/
+  626  rm -rf git_workspace/.git
+  627  cd git_workspace/
+  628  ls
+  629  cd git-basic-exercises/
+  630  LS -A
+  631  la -a
+  632  touch README.md
+  633  nano README.md 
+  634  cat README.md 
+  635  git add README.md 
+  636  git commit -m "initial commit"
+  637  git log
+  638  nano README.md 
+  639  git add README.md 
+  640  git commit -m "second commit"
+  641  git branch -m master main
+  642  git checkout main
+  643  nano README.md 
+  644  git add
+  645  git add README.md 
+  646  git commit -m "third commit"
+  647  git log
+  648  git checkout 0136ce8126f1f48e85d3f8703fcdd5f416fb36fa
+  649  cat README.md 
+  650  git checkout main
+  651  cat README.md 
+  652  git branch milkshake-flavours
+  653  git checkout milkshake-flavours 
+  654  nano milkshakes.md
+  655  git add milkshakes.md 
+  656  git commit -m "added initial flavours"
+  657  git log
+  658  git checkout main
+  659  git branch history
+  660  git checkout history 
+  661  ls
+  662  log
+  663  git log
+  664  git branch
+  665  history > history.txt
+  666  git add history.txt 
+  667  git commit -m "added history"
+  668  ls
+  669  git log
+  670  git checkout milkshake-flavours 
+  671  git log
+  672  nano README.md 
+  673  git add README.md 
+  674  git commit -m "random readme changes"
+  675  git checkout history
+  676  cat README.md 
+  677  git branch
+  678  rm README.md 
+  679  echo "booya" > README.md
+  680  git add README.md 
+  681  git commit -m "rewrote readme"
+  682  git checkout main
+  683  ls
+  684  git log
+  685  git checkout milkshake-flavours 
+  686  ls
+  687  cat README.md 
+  688  git log
+  689  git checkout history 
+  690  ls
+  691  git log
+  692  git checkout main
+  693  merge milkshake-flavours
+  694  git merge milkshake-flavours 
+  695  git branch
+  696  git merge history
+  697  git checkout history 
+  698  git status
+  699  git add README.md 
+  700  git status
+  701  git checkout main
+  702  git branch
+  703  git merge history
+  704  git log
+  705  git merge history
+  706  git status
+  707  git checkout history
+  708  git status
+  709  git restore README.md
+  710  git status
+  711  git restore --staged README.md
+  712  cat README.md 
+  713  git merge history
+  714  git status
+  715  git add README.md 
+  716  git status
+  717  git log
+  718  git commit -m "issues with merge with history branch"
+  719  git log
+  720  git merge status
+  721  git merge history
+  722  checkout main
+  723  git checkout main
+  724  git status
+  725  git merge --abort
+  726  git branch history
+  727  git checkout history 
+  728  ls'
+  729  ls
+  730  cd /home/zimbocapetonian/git_workspace/git-basic-exercises/
+  731  git status
+  732  ls
+  733  cat README.md 
+  734  git checkout milkshake-flavours 
+  735  ls
+  736  cat README.md 
+  737  cd /home/zimbocapetonian/git_workspace/
+  738  rm -rf /home/zimbocapetonian/git_workspace/git-basic-exercises/.git
+  739  mv git-basic-exercises/ try again
+  740  mv git-basic-exercises try-again
+  741  ld
+  742  ls
+  743  mkdir git-basic-exercises
+  744  cd git-basic-exercises/
+  745  git init
+  746  touch README.md
+  747  git add README.md 
+  748  git commit -m "initial commit"
+  749  nano README.md 
+  750  git add README.md 
+  751  git commit -m "second commit"
+  752  nano README.md 
+  753  git commit -m "third commit"
+  754  git add README.md 
+  755  git commit -m "third commit
+  756  ls
+  757  cd git_workspace/git-basic-exercises/
+  758  ls
+  759  branch
+  760  git branch
+  761  git branch -m master main
+  762  git branch
+  763  ls
+  764  cat README.md 
+  765  git status
+  766  nano README.md 
+  767  git log
+  768  git add README.md 
+  769  git commit -m "third commit"
+  770  git branch milkshake-flavours
+  771  git checkout milkshake-flavours 
+  772  nano milkshakes.md
+  773  git add milkshakes.md 
+  774  git commit -m "added initial flavours"
+  775  git checkout main
+  776  git branch history
+  777  git checkout history
+  778  history > history.txt
